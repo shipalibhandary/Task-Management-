@@ -44,7 +44,7 @@ composer install
 ```bash
 cp .env.example .env
 ```
-Update the .env file with your database details:
+<br>Update the .env file with your database details:
 ```bash
 DB_DATABASE=your_database_name
 DB_USERNAME=your_username
