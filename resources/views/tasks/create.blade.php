@@ -25,7 +25,17 @@
                             @enderror
                         </div>
 
-                        <div class="d-flex justify-content-">
+                        <div class="mb-3">
+                            <label class="form-label">Priority</label>
+                            <select name="priority" class="form-select">
+                                <option value="Low">Low</option>
+                                <option value="Medium">Medium</option>
+                                <option value="High">High</option>
+                            </select>
+                        </div>
+
+
+                        <div class="d-flex justify-content-between">
                             <a href="{{ route('tasks.index') }}" class="btn btn-secondary">Back</a>
                             <button type="submit" class="btn btn-secondary">Save Task</button>
                         </div>
