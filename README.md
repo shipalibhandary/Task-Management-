@@ -67,7 +67,7 @@ artisan
 <img src="screenshots/taskpage.png" alt="image" height="500" width="700"/>
 
 ### Add Task
-![Add Task](screenshots/dd)
+<img src="screenshots/Addtask.png" alt="image" height="500" width="700"/>
 
 ### Edit Task
 <img src="screenshots/edittask.png" alt="image" height="500" width="700"/>
