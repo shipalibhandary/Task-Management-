@@ -65,8 +65,8 @@ php artisan serve
 
 ## 📌 Author
 
-Shipali
-MCA Student
-Laravel Task Manager – Technical Assessment Project
+Shipali<br>
+MCA Student<br>
+Laravel Task Manager – Technical Assessment Project<br>
 
 
