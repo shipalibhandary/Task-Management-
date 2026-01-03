@@ -18,3 +18,12 @@ This is a simple task management system built using Laravel that allows users to
 - Database: MySQL
 - Frontend: Blade Templates, Bootstrap
 - Version Control: Git & GitHub
+
+## Project Structure
+app/
+database/
+resources/
+routes/
+public/
+composer.json
+artisan
