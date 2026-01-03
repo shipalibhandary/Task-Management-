@@ -62,6 +62,15 @@ artisan
     ```bash
     php artisan serve
     ```
+## 📸 Screenshots
+### Task List
+![Task List](screenshots/taskpage.png)
+
+### Add Task
+![Add Task](screenshots/eidttask.png)
+
+### Edit Task
+![Edit Task](screenshots/edit-task.png)
 
 ## 📌 Author
 
