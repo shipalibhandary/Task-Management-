@@ -1,7 +1,7 @@
 # Simple Task Management System
 This is a simple task management system built using Laravel that allows users to create, view, update, and delete tasks with priority and status tracking.
 
-## Features 
+## 📌 Features 
 - Create new tasks
 - Edit the tasks
 - Delate tasks
@@ -12,3 +12,9 @@ This is a simple task management system built using Laravel that allows users to
       - Low
       - Medium
       - High
+
+## 🛠 Tech Stack
+- Backend: Laravel (PHP)
+- Database: MySQL
+- Frontend: Blade Templates, Bootstrap
+- Version Control: Git & GitHub
