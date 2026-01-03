@@ -64,13 +64,13 @@ artisan
     ```
 ## 📸 Screenshots
 ### Task List
-![Task List](screenshots/taskpage.png)
+<img src="screenshots/taskpage.png" alt="image" height="500" width="700"/>
 
 ### Add Task
 ![Add Task](screenshots/dd)
 
 ### Edit Task
-![Edit Task](screenshots/edittask.png)
+<img src="Screenshots/edittask.png" alt="image" height="500" width="700"/>
 
 ## 📌 Author
 
