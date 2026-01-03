@@ -67,10 +67,10 @@ artisan
 ![Task List](screenshots/taskpage.png)
 
 ### Add Task
-![Add Task](screenshots/eidttask.png)
+![Add Task](screenshots/dd)
 
 ### Edit Task
-![Edit Task](screenshots/edit-task.png)
+![Edit Task](screenshots/edittask.png)
 
 ## 📌 Author
 
