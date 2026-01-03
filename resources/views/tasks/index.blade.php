@@ -52,7 +52,7 @@
                     </tr>
                 @empty
                     <tr>
-                        <td colspan="3" class="text-center py-4">No tasks yet.</td>
+                        <td colspan="5" class="text-center py-4">No tasks yet.</td>
                     </tr>
                 @endforelse
                 </tbody>
