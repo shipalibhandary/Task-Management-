@@ -20,8 +20,8 @@ This is a simple task management system built using Laravel that allows users to
 - Version Control: Git & GitHub
 
 ## Project Structure
-app/
-database/
+app/<br>
+database/<br>
 resources/
 routes/
 public/
