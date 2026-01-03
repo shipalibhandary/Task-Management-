@@ -19,24 +19,24 @@ This is a simple task management system built using Laravel that allows users to
 - Frontend: Blade Templates, Bootstrap
 - Version Control: Git & GitHub
 
-## Project Structure
+## 📂 Project Structure
 app/<br>
 database/<br>
-resources/
-routes/
-public/
-composer.json
+resources/<br>
+routes/<br>
+public/<br>
+composer.json<br>
 artisan
 
 ## ⚙️ Setup Instructions
-1. Clone the repository
-       git clone https://github.com/USERNAME/laravel-task-manager.git
+1. Clone the repository<br>
+       git clone https://github.com/USERNAME/laravel-task-manager.git<br>
        cd laravel-task-manager
 
-2. Install dependencies
+2. Install dependencies<br>
        composer install
 
-3. Environment setup
+3. Environment setup<br>
        cp .env.example .env
 
 
