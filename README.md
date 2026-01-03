@@ -29,14 +29,44 @@ composer.json<br>
 artisan
 
 ## ⚙️ Setup Instructions
-1. Clone the repository<br>
-       git clone https://github.com/USERNAME/laravel-task-manager.git<br>
-       cd laravel-task-manager
+1. Clone the repository
+```bash
+git clone https://github.com/USERNAME/laravel-task-manager.git<br>
+cd laravel-task-manager
+```
 
-2. Install dependencies<br>
-       composer install
+2. Install dependencies
+```bash
+composer install
+```
 
-3. Environment setup<br>
-       cp .env.example .env
+3. Environment setup
+```bash
+cp .env.example .env
+```
+Update the .env file with your database details:
+```bash
+DB_DATABASE=your_database_name
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
+```
+4. Generate the application key
+```bash
+php artisan key:generate
+```
+5. Run the database migrations
+```bash
+php artisan migrate
+```
+6. Start the server
+```bash
+php artisan serve
+```
+
+## 📌 Author
+
+Shipali
+MCA Student
+Laravel Task Manager – Technical Assessment Project
 
 
