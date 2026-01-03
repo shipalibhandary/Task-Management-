@@ -70,7 +70,7 @@ artisan
 ![Add Task](screenshots/dd)
 
 ### Edit Task
-<img src="Screenshots/edittask.png" alt="image" height="500" width="700"/>
+<img src="screenshots/edittask.png" alt="image" height="500" width="700"/>
 
 ## 📌 Author
 
