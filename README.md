@@ -27,3 +27,16 @@ routes/
 public/
 composer.json
 artisan
+
+## ⚙️ Setup Instructions
+1. Clone the repository
+       git clone https://github.com/USERNAME/laravel-task-manager.git
+       cd laravel-task-manager
+
+2. Install dependencies
+       composer install
+
+3. Environment setup
+       cp .env.example .env
+
+
